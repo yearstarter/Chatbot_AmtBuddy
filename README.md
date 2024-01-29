@@ -6,9 +6,9 @@ Aimed to get a simple answer in English based on robust info sources in german l
 Additional feature: load your pdf-document and ask questions about it!
 
 
-User Interface: streamlit.
+User Interface: streamlit
 
-LLM: ChatOpenAI (gpt-3.5-turbo).
+LLM: ChatOpenAI (gpt-3.5-turbo)
 
 Framework: LangChain
 
