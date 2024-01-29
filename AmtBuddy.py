@@ -151,7 +151,5 @@ def main():
 
                 st.button("Process")
 
-# Dieser Code testet, ob die application direkt ausgeführt und nicht erst importiert wird. 
-# Wenn das erfüllt ist, dann wird erst die main() Funktion ausgeführt
 if __name__ == '__main__':
     main()
